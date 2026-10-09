@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.DS_Store
+.vscode/
+.idea/
+
+# Generated output
+report.md
+*.log
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# AWS/local generated state
+.aws/
+cdk.out/
