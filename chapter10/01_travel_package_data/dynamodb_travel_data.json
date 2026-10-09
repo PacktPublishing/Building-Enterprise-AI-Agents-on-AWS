@@ -1,0 +1,37 @@
+[
+  {
+    "city": "Mumbai",
+    "travel_plan": "Day 1: Explore Gateway of India and Marine Drive waterfront. Day 2: Visit Elephanta Caves via ferry and Crawford Market for shopping. Day 3: Tour Bollywood studios and enjoy street food in Mohammed Ali Road. Day 4: Relax at Juhu Beach and visit Haji Ali Dargah. Day 5: Shopping at Linking Road and departure from Chhatrapati Shivaji Airport.",
+    "vacation_cost": "$800-1200",
+    "duration": "5 days",
+    "best_season": "October to March"
+  },
+  {
+    "city": "NewYork",
+    "travel_plan": "Day 1: Times Square, Broadway show, and Central Park stroll. Day 2: Statue of Liberty, Ellis Island, and Wall Street financial district. Day 3: Metropolitan Museum, High Line park, and Brooklyn Bridge walk. Day 4: 9/11 Memorial, One World Observatory, and Little Italy dining. Day 5: Shopping on Fifth Avenue and Empire State Building visit. Day 6: Departure from JFK Airport.",
+    "vacation_cost": "$2500-4000",
+    "duration": "6 days",
+    "best_season": "April to June, September to November"
+  },
+  {
+    "city": "London",
+    "travel_plan": "Day 1: Tower of London, Tower Bridge, and Thames River cruise. Day 2: Buckingham Palace, Westminster Abbey, and Big Ben tour. Day 3: British Museum, Covent Garden, and West End theater show. Day 4: Windsor Castle day trip and afternoon tea experience. Day 5: Camden Market, Regent's Park, and London Eye ride. Day 6: Last-minute shopping at Oxford Street before Heathrow departure.",
+    "vacation_cost": "$2200-3500",
+    "duration": "6 days",
+    "best_season": "May to September"
+  },
+  {
+    "city": "Paris",
+    "travel_plan": "Day 1: Eiffel Tower, Seine River cruise, and Champs-Élysées walk. Day 2: Louvre Museum, Tuileries Garden, and Notre-Dame Cathedral area. Day 3: Versailles Palace day trip with gardens and fountains. Day 4: Montmartre district, Sacré-Cœur, and artist squares exploration. Day 5: Arc de Triomphe, Latin Quarter cafés, and evening cabaret show. Day 6: Last-minute souvenir shopping before Charles de Gaulle departure.",
+    "vacation_cost": "$2000-3200",
+    "duration": "6 days",
+    "best_season": "April to June, September to October"
+  },
+  {
+    "city": "Melbourne",
+    "travel_plan": "Day 1: Federation Square, Royal Botanic Gardens, and Yarra River walk. Day 2: Great Ocean Road day trip to see Twelve Apostles. Day 3: Queen Victoria Market, street art in Hosier Lane, and rooftop bars. Day 4: Phillip Island penguin parade and wildlife sanctuary visit. Day 5: Dandenong Ranges, Puffing Billy steam train, and wine tasting. Day 6: Final city exploration and departure from Tullamarine Airport.",
+    "vacation_cost": "$1800-2800",
+    "duration": "6 days",
+    "best_season": "March to May, September to November"
+  }
+]

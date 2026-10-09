@@ -1,0 +1,19 @@
+research_task:
+  description: >
+    Analyze the request for {topic}. If it asks for company travel-package
+    details, use Get Travel Packages for the requested city. If it asks for
+    attractions, itinerary research, or general travel guidance, use the
+    web-research tool as needed. If both are requested, use the appropriate
+    tool for each part of the answer.
+  expected_output: >
+    Return the relevant package details when available and summarize any
+    requested public travel research separately.
+  agent: vacation_researcher
+
+reporting_task:
+  description: >
+    Review the research findings and create a detailed report about {topic}.
+  expected_output: >
+    A clear Markdown report that preserves the distinction between enterprise
+    package data and public travel research.
+  agent: itinerary_planner

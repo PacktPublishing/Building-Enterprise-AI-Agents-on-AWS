@@ -1,0 +1,28 @@
+[
+  {
+    "name": "get_travel_packages",
+    "description": "Get a travel package for a supported city, including itinerary, cost, duration, and best season",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "city": {
+          "type": "string",
+          "description": "Exact city key to look up in the travel package catalog"
+        }
+      },
+      "required": ["city"]
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "found": {"type": "boolean"},
+        "city": {"type": "string"},
+        "travel_plan": {"type": "string"},
+        "vacation_cost": {"type": "string"},
+        "duration": {"type": "string"},
+        "best_season": {"type": "string"},
+        "message": {"type": "string"}
+      }
+    }
+  }
+]
